@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "415320675205",
+    "project_id": "mapp-68472",
+    "storage_bucket": "mapp-68472.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415320675205:android:07596a9fdfd70043c8aaec",
+        "android_client_info": {
+          "package_name": "com.ayush.mapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq6LMybCOCGyWdHQFZ7Qw5i12DRuMfyTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
